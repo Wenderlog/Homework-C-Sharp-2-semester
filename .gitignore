@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.sln
+Lazy/ConsoleApp1 2/.DS_Store
+Lazy/.DS_Store
+.DS_Store
